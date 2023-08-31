@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: edu.yu.cs.com1320.project.stage5.impl.UndoTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.075 s <<< FAILURE! - in edu.yu.cs.com1320.project.stage5.impl.UndoTests
+edu.yu.cs.com1320.project.stage5.impl.UndoTests.undoDeleteAllWithPrefix  Time elapsed: 0.009 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[edu.yu.cs.com1320.project.stage5.impl.DocumentImpl@3cc165fa]> but was: <[]>
+	at edu.yu.cs.com1320.project.stage5.impl.UndoTests.undoDeleteAllWithPrefix(UndoTests.java:275)
+
